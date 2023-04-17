@@ -10,4 +10,4 @@ To use this website, you can either download the files and open the index.html f
 - [w3schools](https://www.w3schools.com/)
 
 ## Contributors
-- [Sri Somankjali](https://github.com/srisomanjali18)
+- [Sri Somanjali](https://github.com/srisomanjali18)
